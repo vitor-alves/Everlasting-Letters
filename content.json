@@ -1,0 +1,44 @@
+{
+ "address": "**********************************",
+ "address_index": 88476854,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "",
+ "files": {
+  "css/bulma.min.css": {
+   "sha512": "***************************************",
+   "size": 158779
+  },
+  "dbschema.json": {
+   "sha512": "************************************************",
+   "size": 1061
+  },
+  "index.html": {
+   "sha512": "*********************************************************",
+   "size": 4660
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "*****************************************",
+   "size": 3370
+  }
+ },
+ "ignore": "data/.*",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "modified": 1537474397,
+ "postmessage_nonce_security": true,
+ "signers_sign": "************************************************************",
+ "signs": {
+  "*************************************": "*************************************************************"
+ },
+ "signs_required": 1,
+ "title": "EverlastingLetters",
+ "translate": ["js/all.js"],
+ "zeronet_version": "0.6.2"
+}
